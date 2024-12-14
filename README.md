@@ -10,8 +10,10 @@ ktr dev epock tool🥶🥶🥶🥶
 
 ## # How to use?
 - Edit "BASE OFFER" at line 4 and same change to line 58
-- 
+
+## idk
 - I think you need to put full shop.py in line 4
+- and line 16 shop.json if u want to edit .py file
 
 
 ## Ingame
