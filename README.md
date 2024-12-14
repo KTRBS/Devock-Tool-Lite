@@ -8,6 +8,11 @@ ktr dev epock tool🥶🥶🥶🥶
 - This is Devock Tool base (lite)
 - Defalut json is set to v47 because yes
 
+## # How to use?
+- Edit "BASE OFFER" at line 4 and same change to line 58
+- 
+- I think you need to put full shop.py in line 4
+
 
 ## Ingame
 ![preview]()
