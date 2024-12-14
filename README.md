@@ -16,7 +16,7 @@ ktr dev epock tool🥶🥶🥶🥶
 broken bc server is trash
 
 ## Links
-[V47 server](https://t.me/c/2424301682/2)
+[V47 server](https://t.me/+J_t5xgnl4DA3ZjU1)
 
 [V47 client](https://t.me/DownloadZipBS/316)
 
