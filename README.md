@@ -8,6 +8,7 @@ ktr dev epock tool🥶🥶🥶🥶
 - This is Devock Tool base (lite)
 - Defalut json is set to v47 because yes
 - Can add offer multiple offer at the same time
+- Can make shop.json if it doesnt exist in the path
 
 ## How to use?
 - Run and type correct path to shop.json
