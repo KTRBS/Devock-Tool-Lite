@@ -18,7 +18,7 @@ broken bc server is trash
 ## Links
 ![V47 server]()
 
-![V47 client](https://t.me/DownloadZipBS/316)
+[V47 client](https://t.me/DownloadZipBS/316)
 
 im sorry i couldnt find github link
 
