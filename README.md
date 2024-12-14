@@ -13,7 +13,7 @@ ktr dev epock tool🥶🥶🥶🥶
 
 ## Ingame
 ![preview](https://github.com/user-attachments/assets/0b0a2d35-cc86-45d7-8d7e-d3dc104b419b)
-
+broken bc server is trash
 
 ## Links
 ![V47 server]()
