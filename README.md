@@ -7,7 +7,7 @@ ktr dev epock tool🥶🥶🥶🥶
 ## What's working ?
 - This is Devock Tool base (lite)
 - Defalut json is set to v47 because yes
-- Can add offer multiple time
+- Can add offer multiple offer at the same time
 
 ## How to use?
 - Run and type correct path to shop.json
