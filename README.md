@@ -23,7 +23,7 @@ broken bc server is trash
 im sorry i couldnt find github link
 
 ## To make this compatible with other version
-- Bdit "BASE OFFER" at line 4 and same change to line 58 
+- Edit "BASE OFFER" at line 4 and same change to line 58 
 
 ## Credits
  - chargpt
