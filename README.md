@@ -9,7 +9,7 @@ ktr dev epock tool🥶🥶🥶🥶
 - Defalut json is set to v47 because yes
 
 ## How to use?
-- Run and type correct path to server 
+- Run and type correct path to shop.json
 
 ## Ingame
 ![preview](https://github.com/user-attachments/assets/0b0a2d35-cc86-45d7-8d7e-d3dc104b419b)
