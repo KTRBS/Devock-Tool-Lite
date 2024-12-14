@@ -12,13 +12,13 @@ ktr dev epock tool🥶🥶🥶🥶
 - Edit "BASE OFFER" at line 4 and same change to line 58
 
 ## Ingame
-![preview]()
+![preview](https://github.com/user-attachments/assets/0b0a2d35-cc86-45d7-8d7e-d3dc104b419b)
 
 
 ## Links
-![V22 server]()
+![V47 server]()
 
-![V22 client]()
+![V47 client]()
 
 im sorry i couldnt find github link
 
