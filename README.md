@@ -20,8 +20,6 @@ broken bc server is trash
 
 [V47 client](https://t.me/DownloadZipBS/316)
 
-im sorry i couldnt find github link
-
 ## To make this compatible with other version
 - Edit "BASE OFFER" at line 4 and same change to line 58 
 
