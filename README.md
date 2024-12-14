@@ -5,8 +5,8 @@ ktr dev epock tool🥶🥶🥶🥶
 
 
 ## What's working ?
-- this is Devock tool base (lite)
-- defalut json is set to v47 because yes
+- This is Devock Tool base (lite)
+- Defalut json is set to v47 because yes
 
 
 ## Ingame
