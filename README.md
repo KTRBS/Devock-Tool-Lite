@@ -22,7 +22,7 @@ ktr dev epock tool🥶🥶🥶🥶
 
 im sorry i couldnt find github link
 
-## If u want to ed
+## To make this compatible with other version
 - Bdit "BASE OFFER" at line 4 and same change to line 58 
 
 ## Credits
