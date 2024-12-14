@@ -27,5 +27,3 @@ im sorry i couldnt find github link
 
 ## Credits
  - chargpt
-
-# only 1.71kb omg
